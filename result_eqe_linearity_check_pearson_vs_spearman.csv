@@ -1,0 +1,77 @@
+variable,Pearson_r (Linear),Spearman_rho (Monotonic),Abs_Diff,Strong_Nonlinear_Risk
+Morgan Bit 1043,0.2023,0.1622,0.0401,False
+Morgan Bit 1838,0.1628,0.193,0.0302,False
+Morgan Bit 784,-0.2105,-0.1812,0.0292,False
+Morgan Bit 1444,-0.1948,-0.1676,0.0273,False
+Bit 101,0.2496,0.2766,0.027,False
+Morgan Bit 650,0.1978,0.2247,0.0269,False
+Morgan Bit 997,-0.2132,-0.1865,0.0267,False
+Morgan Bit 414,-0.2257,-0.199,0.0266,False
+Morgan Bit 1143,-0.1706,-0.1464,0.0242,False
+Bit 82,0.164,0.1401,0.0238,False
+Morgan Bit 1633,0.16,0.1831,0.0231,False
+Morgan Bit 378,0.2615,0.2386,0.0229,False
+Bit 98,0.2514,0.229,0.0224,False
+Morgan Bit 500,0.1638,0.1852,0.0214,False
+Morgan Bit 1357,0.1638,0.1851,0.0213,False
+Morgan Bit 645,0.237,0.2161,0.021,False
+Morgan Bit 67,0.1708,0.1914,0.0206,False
+Morgan Bit 222,-0.2331,-0.2126,0.0205,False
+Bit 141,-0.2294,-0.2089,0.0205,False
+Morgan Bit 437,0.2116,0.1914,0.0202,False
+Morgan Bit 36,-0.1902,-0.1708,0.0194,False
+Morgan Bit 926,-0.1757,-0.1949,0.0192,False
+Morgan Bit 473,-0.1755,-0.1564,0.0191,False
+Morgan Bit 565,-0.166,-0.1477,0.0183,False
+Morgan Bit 624,-0.1681,-0.1506,0.0175,False
+Morgan Bit 1601,0.2056,0.2228,0.0172,False
+Morgan Bit 1323,-0.2123,-0.1955,0.0168,False
+Morgan Bit 1430,0.1569,0.1735,0.0166,False
+Morgan Bit 45,0.1965,0.2126,0.0161,False
+Bit 159,0.211,0.227,0.016,False
+Bit 90,0.2759,0.2918,0.0159,False
+Bit 142,0.2099,0.1941,0.0159,False
+Morgan Bit 1293,-0.1968,-0.1811,0.0157,False
+Bit 121,0.2219,0.2372,0.0154,False
+Bit 89,0.158,0.1728,0.0149,False
+Morgan Bit 1741,0.1607,0.1755,0.0148,False
+Morgan Bit 419,-0.1768,-0.1622,0.0145,False
+Bit 69,0.1565,0.1709,0.0144,False
+Bit 31,-0.1763,-0.1629,0.0134,False
+Bit 91,0.1724,0.1846,0.0123,False
+Bit 163,0.2349,0.2237,0.0112,False
+Morgan Bit 439,0.1557,0.1667,0.011,False
+Bit 162,0.1921,0.1812,0.0109,False
+Morgan Bit 591,-0.1616,-0.1507,0.0109,False
+Bit 97,0.1833,0.1939,0.0106,False
+Morgan Bit 780,-0.2638,-0.2536,0.0102,False
+Morgan Bit 715,0.221,0.2309,0.0099,False
+Bit 65,0.2724,0.2634,0.0091,False
+Morgan Bit 656,-0.1621,-0.171,0.0089,False
+Morgan Bit 532,-0.2247,-0.2173,0.0074,False
+Bit 104,0.1565,0.164,0.0074,False
+Morgan Bit 1866,0.2184,0.2124,0.0061,False
+Bit 74,-0.2894,-0.2837,0.0057,False
+Morgan Bit 1750,0.1802,0.1746,0.0056,False
+Morgan Bit 632,-0.2328,-0.2384,0.0055,False
+Morgan Bit 1380,0.2106,0.2051,0.0055,False
+Morgan Bit 1405,-0.1938,-0.1992,0.0054,False
+Bit 96,0.165,0.1704,0.0054,False
+Morgan Bit 1683,-0.1818,-0.1767,0.0051,False
+Morgan Bit 1873,0.189,0.184,0.005,False
+Bit 136,0.179,0.1839,0.0048,False
+Bit 108,-0.2015,-0.2063,0.0048,False
+Morgan Bit 1952,0.177,0.1811,0.0041,False
+Morgan Bit 1490,-0.1618,-0.1584,0.0034,False
+Morgan Bit 1226,0.1558,0.1592,0.0034,False
+Bit 156,0.2766,0.2734,0.0032,False
+Morgan Bit 950,-0.1861,-0.1891,0.003,False
+Bit 125,0.176,0.1788,0.0029,False
+Morgan Bit 1646,-0.1632,-0.1603,0.0028,False
+Morgan Bit 1649,0.1551,0.1571,0.002,False
+Morgan Bit 1260,0.1926,0.1907,0.0019,False
+Morgan Bit 976,0.1611,0.1593,0.0017,False
+Morgan Bit 1723,0.1574,0.159,0.0016,False
+Morgan Bit 1928,0.1886,0.1876,0.001,False
+Morgan Bit 1453,0.191,0.1913,0.0003,False
+Morgan Bit 1797,-0.2259,-0.2256,0.0003,False
